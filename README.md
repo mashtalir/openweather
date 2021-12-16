@@ -6,7 +6,14 @@
      <p>pip install -r requirements.txt</p>
    <h2>Run server</h2>
    <p>cd application</p>
-   <p>flask run</p>
+   <p>flask run<br> (if flask run doesnt work write - "export FLASK_APP"=app<br>
+    then "flask run")</p>
+   <h2>Run script get_data.py</h2>
+    <p>venv/bin/python3 get_data.py</p>
+   <h2>Run script request_samples.py</h2>
+    <p>venv/bin/python3 request_samples.py</p>
+
+   
 
 <h1>For Windows users</h1>
   <h2>Create virualenv and activate</h2>
@@ -18,3 +25,7 @@
    <h2>Run server</h2>
    <p>cd application</p>
    <p>flask run</p>
+    <h2>Run script get_data.py</h2>
+    <p>venv/Scripts/python.exe get_data.py</p>
+   <h2>Run script request_samples.py</h2>
+    <p>venv/Scripts/python.exe request_samples.py</p>
