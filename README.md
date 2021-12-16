@@ -24,7 +24,8 @@
      <p>pip install -r requirements.txt</p>
    <h2>Run server</h2>
    <p>cd application</p>
-   <p>flask run</p>
+   <p>flask run  (if flask run doesnt work write - "set FLASK_APP"=app
+then "flask run")</p>
     <h2>Run script get_data.py</h2>
     <p>venv/Scripts/python.exe get_data.py</p>
    <h2>Run script request_samples.py</h2>
