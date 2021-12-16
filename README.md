@@ -32,7 +32,7 @@ then "flask run")</p>
     <p>venv\Scripts\python.exe request_samples.py</p>
     
     
-<h1>Some CLI commands (DB is already seted up so its not obligatory</h1>
+<h1>Some CLI commands (DB is already seted up so its not obligatory)</h1>
   <h3>Create tables in DB</h3>
     <p>flask create-tables</p>
    <h3>Drop tables in DB</h3>
